@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/obritas/static/css/main.0c38d844.css",
-    "main.js": "/obritas/static/js/main.800a1308.js",
+    "main.js": "/obritas/static/js/main.7ccf8382.js",
     "index.html": "/obritas/index.html",
     "main.0c38d844.css.map": "/obritas/static/css/main.0c38d844.css.map",
-    "main.800a1308.js.map": "/obritas/static/js/main.800a1308.js.map"
+    "main.7ccf8382.js.map": "/obritas/static/js/main.7ccf8382.js.map"
   },
   "entrypoints": [
     "static/css/main.0c38d844.css",
-    "static/js/main.800a1308.js"
+    "static/js/main.7ccf8382.js"
   ]
 }
