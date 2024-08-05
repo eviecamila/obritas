@@ -11,6 +11,7 @@ function Home() {
 
             <h1>Si estas desde tu movil, escanea este QR</h1>
             <QrCode text={URL}/>
+            <Link to='/auth'>AUTH</Link>
         </div>
     );
 }
