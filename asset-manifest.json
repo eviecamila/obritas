@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/obritas/static/css/main.0c38d844.css",
+    "main.js": "/obritas/static/js/main.800a1308.js",
+    "index.html": "/obritas/index.html",
+    "main.0c38d844.css.map": "/obritas/static/css/main.0c38d844.css.map",
+    "main.800a1308.js.map": "/obritas/static/js/main.800a1308.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c38d844.css",
+    "static/js/main.800a1308.js"
+  ]
+}
